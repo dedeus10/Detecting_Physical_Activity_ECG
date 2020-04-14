@@ -1,0 +1,1 @@
+python3 -O detectingActivity.py 7 leo1 leo2 lf1 lf2 t tiago_RV1 tiago_RV2 
